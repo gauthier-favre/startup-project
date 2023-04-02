@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:wght@400;700&family=Montserrat:wght@300;400&family=Pacifico&display=swap');
+
+
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Cardo', serif;
+	font-size: 18px;
+	text-align: center;
+	}
+
+
+h1 {
+	font-family: 'Pacifico', cursive;
+}
+
+h2, h3 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold; 
+	line-height: 2;
+}
+
+a {
+	background-color: #0C2347;
+	text-decoration: none;
+	transition: color 0.3s ease;
+}
+
+a:hover { 
+  background-color: #0C2347;
+  text-decoration: none;
+ }
+
+
+
